@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: auto;
 }
 img {
     width: 500px;
@@ -35,6 +36,7 @@ section {
 
 .top_banner {
     background-image: url(image/Back-ground.jpg);
+    background-repeat: no-repeat;
 }
 
 .Paragraph {
