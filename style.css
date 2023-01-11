@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+img {
+    width: 500px;
+    width: 500px;
+}
+section {
+    display: flex;
+}
+.half-width-1 {
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 70px;
+}
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 60%;
+    padding: 5%;
+}
+.hireme {
+    margin-top: 500px;
+    background-color: rgb(229, 122, 0);
+    background-image: linear-gradient(to right top, #f29206, #f17f00, #f06b00, #ee5508, #eb3a12);
+    padding: 3px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 200;
+
+}
+
+.top_banner {
+    background-image: url(image/Back-ground.jpg);
+}
+
+.Paragraph {
+    margin-bottom: 25px;
+}
